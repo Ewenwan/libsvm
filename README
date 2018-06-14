@@ -18,7 +18,7 @@ Libsvm is available at
 http://www.csie.ntu.edu.tw/~cjlin/libsvm
 Please read the COPYRIGHT file before using libsvm.
 
-Table of Contents
+Table of Contents  包含
 =================
 
 - Quick Start
@@ -49,8 +49,9 @@ Usage: easy.py training_file [testing_file]
 More information about parameter selection can be found in
 `tools/README.'
 
-Installation and Data Format
+Installation and Data Format   安装 
 ============================
+linux系统下 
 
 On Unix systems, type `make' to build the `svm-train' and `svm-predict'
 programs. Run them without arguments to show the usages of them.
@@ -59,6 +60,8 @@ On other systems, consult `Makefile' to build them (e.g., see
 'Building Windows binaries' in this file) or use the pre-built
 binaries (Windows binaries are in the directory `windows').
 
+
+数据格式
 The format of training and testing data file is:
 
 <label> <index1>:<value1> <index2>:<value2> ...
