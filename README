@@ -1,3 +1,13 @@
+# 简介
+	LIBSVM是一个集成软件包。
+	提供支持向量机分类（C-SVC,nu-SVC），
+	回归（epsilon-SVR,nu-SVR）以及
+	分布预计（one-class SVM）.
+	工具包支持多类分类问题。
+	LIBSVM是台湾大学林智仁(LinChih-Jen)副教授等开发设计的一个简单、
+
+	易于使用和高速有效的SVM模式识别与回归的软件包。
+
 Libsvm is a simple, easy-to-use, and efficient software for SVM
 classification and regression. It solves C-SVM classification, nu-SVM
 classification, one-class-SVM, epsilon-SVM regression, and nu-SVM
